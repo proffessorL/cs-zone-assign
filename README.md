@@ -11,3 +11,7 @@ It makes UI code easier to write and understand.
 `useState` is a React hook that lets you add state to functional components.  
 It returns a state variable and a function to update it.
 
+### 4. How can you share state between components in React?
+By **lifting state up** to a common parent and passing it down via **props**### 4. How can you share state between components in React?
+By **lifting state up** to a common parent and passing it down via **props**
+
