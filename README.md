@@ -15,3 +15,5 @@ It returns a state variable and a function to update it.
 By **lifting state up** to a common parent and passing it down via **props**### 4. How can you share state between components in React?
 By **lifting state up** to a common parent and passing it down via **props**
 
+### 5. How is event handling done in React?
+React uses **camelCase event handlers** (e.g., `onClick`) and functions to handle user actions.
