@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue on website",
+    "description": "User cannot log in with valid credentials on the main portal.",
+    "customer": "Alice Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway error",
+    "description": "Credit card payments fail intermittently during checkout.",
+    "customer": "Bob Smith",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 3,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requests a dark mode theme for the dashboard.",
+    "customer": "Carla Diaz",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 4,
+    "title": "Slow performance on mobile app",
+    "description": "Mobile app takes too long to load user data.",
+    "customer": "David Lee",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 5,
+    "title": "Bug: Incorrect invoice total",
+    "description": "Invoices generated show incorrect totals when discounts apply.",
+    "customer": "Emma Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-17"
+  },
+  {
+    "id": 6,
+    "title": "Account suspension issue",
+    "description": "Account suspended without notification for multiple users.",
+    "customer": "Frank Chen",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-16"
+  },
+  {
+    "id": 7,
+    "title": "Email notifications not sending",
+    "description": "System fails to send email alerts for new messages.",
+    "customer": "Grace Kim",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 8,
+    "title": "UI alignment issue on dashboard",
+    "description": "Widgets are misaligned on high-resolution screens.",
+    "customer": "Hassan Ali",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-14"
+  },
+  {
+    "id": 9,
+    "title": "Security vulnerability report",
+    "description": "Potential XSS vulnerability found on feedback form.",
+    "customer": "Isabella Moore",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-13"
+  },
+  {
+    "id": 10,
+    "title": "Password reset link expired too soon",
+    "description": "Reset links expire after 5 minutes instead of 30.",
+    "customer": "Jack Thompson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-12"
+  },
+  {
+    "id": 11,
+    "title": "Analytics data mismatch",
+    "description": "Analytics dashboard numbers differ from exported reports.",
+    "customer": "Kelly Parker",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-11"
+  },
+  {
+    "id": 12,
+    "title": "Feature request: Multi-language support",
+    "description": "Customer suggests adding support for French and Spanish.",
+    "customer": "Liam Patel",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-10"
+  }
+]
