@@ -5,3 +5,9 @@ It makes UI code easier to write and understand.
 ### 2. What is the difference between State and Props?
 - **State**: Managed within a component, can change over time.  
 - **Props**: Passed from parent to child, read-only.
+
+
+### 3. What is the useState hook, and how does it work?
+`useState` is a React hook that lets you add state to functional components.  
+It returns a state variable and a function to update it.
+
