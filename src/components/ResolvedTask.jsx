@@ -1,4 +1,4 @@
-import React from 'react';
+
 import TicketCard from './TicketCard';
 
 const ResolvedTask = ({ tickets, loading }) => {
